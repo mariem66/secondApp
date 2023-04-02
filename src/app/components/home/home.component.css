@@ -1,0 +1,56 @@
+.home {
+    width: 100%;
+    height: 100%;
+    background-color: #1abc9c !important;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+    line-height: 3.5rem;
+    text-transform: uppercase;
+}
+.live-icon{
+    
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.live-icon .line-left {
+    width: 100%;
+    position: absolute;
+    left: 34%;
+    background-color: white;
+    margin-left: 1rem;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+    border-color: #2c3e50 !important;
+}
+.live-icon .line-right{
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    margin-right: 1rem;
+    max-width: 7rem;
+    height: 0.25rem;
+    right: 34%;
+    border-radius: 1rem;
+    border-color: #2c3e50 !important;
+}
+.icon{
+    position: absolute;
+    right: 48%;
+    bottom: -25px;
+    font-size: 2rem;
+}
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -.125em;
+}
+p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
